@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="empTable01">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="lname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="addressid" Type="Int32" />
+    <Property Name="empid" Type="Int32" />
+    <NavigationProperty Name="empTable02" Relationship="Self.FK_empTable01_empTable02" FromRole="empTable01" ToRole="empTable02" />
+  </EntityType>
+  <EntityType Name="empTable02">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="city" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="state" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="country" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="empTable01" Relationship="Self.FK_empTable01_empTable02" FromRole="empTable02" ToRole="empTable01" />
+  </EntityType>
+  <Association Name="FK_empTable01_empTable02">
+    <End Role="empTable02" Type="Self.empTable02" Multiplicity="0..1" />
+    <End Role="empTable01" Type="Self.empTable01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empTable02">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="empTable01">
+        <PropertyRef Name="addressid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmployeeDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="empTable01" EntityType="Self.empTable01" />
+    <EntitySet Name="empTable02" EntityType="Self.empTable02" />
+    <AssociationSet Name="FK_empTable01_empTable02" Association="Self.FK_empTable01_empTable02">
+      <End Role="empTable02" EntitySet="empTable02" />
+      <End Role="empTable01" EntitySet="empTable01" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

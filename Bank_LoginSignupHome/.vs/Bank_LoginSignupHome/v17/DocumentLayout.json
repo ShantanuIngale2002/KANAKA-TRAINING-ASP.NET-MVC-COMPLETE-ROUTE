@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\bank_loginsignuphome\\bank_loginsignuphome\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\data\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\data\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\bank_loginsignuphome\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D62E594B-CCD3-4798-B365-278D502137FD}|Bank_LoginSignupHome\\Bank_LoginSignupHome.csproj|solutionrelative:bank_loginsignuphome\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignupModel.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Models\\SignupModel.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Models\\SignupModel.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Models\\SignupModel.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Models\\SignupModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:52:28.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\UserContext.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Data\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:48:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:38:14.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:31:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:18:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:48:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:22:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:03:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T05:45:24.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Web.config",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Web.config",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Web.config",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T06:42:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:59:12.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\LoginContext.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Data\\LoginContext.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\LoginContext.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Data\\LoginContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:06:02.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:46:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Signup\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Signup\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Signup\\Index.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Signup\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:39:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:08:57.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T17:26:38.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Controllers\\SignupController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:38:18.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Bank_LoginSignupHome\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\Bank_LoginSignupHome\\Bank_LoginSignupHome\\Data\\User.cs",
+              "RelativeToolTip": "Bank_LoginSignupHome\\Data\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:13:55.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

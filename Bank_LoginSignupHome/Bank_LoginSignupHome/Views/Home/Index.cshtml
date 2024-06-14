@@ -1,0 +1,20 @@
+﻿@model Bank_LoginSignupHome.Models.User
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>HOME PAGE</h2>
+
+@{
+    @Html.Raw(ViewBag.Edited)
+}
+
+<h3>User's Name is @Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.LastName)</h3>
+
+
+@Html.ActionLink("View Profile", "Details", "Home") |
+@Html.ActionLink("Edit Profile", "Edit", "Home") |
+@Html.ActionLink("Delete Profile", "Delete", "Home") |
+@Html.ActionLink("Logout", "Logout", "Home")
+

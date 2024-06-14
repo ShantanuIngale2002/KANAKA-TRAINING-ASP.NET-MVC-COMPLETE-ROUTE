@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="empTable01">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fname" Type="varchar" MaxLength="20" />
+    <Property Name="lname" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+    <Property Name="addressid" Type="int" />
+    <Property Name="empid" Type="int" />
+  </EntityType>
+  <EntityType Name="empTable02">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="city" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="state" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="country" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_empTable01_empTable02">
+    <End Role="empTable02" Type="Self.empTable02" Multiplicity="0..1" />
+    <End Role="empTable01" Type="Self.empTable01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empTable02">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="empTable01">
+        <PropertyRef Name="addressid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmployeeDBModelStoreContainer">
+    <EntitySet Name="empTable01" EntityType="Self.empTable01" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="empTable02" EntityType="Self.empTable02" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_empTable01_empTable02" Association="Self.FK_empTable01_empTable02">
+      <End Role="empTable02" EntitySet="empTable02" />
+      <End Role="empTable01" EntitySet="empTable01" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\MyAppDB.dll.config
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\MyAppDB.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\MyAppDB.pdb
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\EntityFramework.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\MyAppModels.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\MyAppModels.pdb
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\EntityFramework.xml
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\obj\Debug\MyAppDB.csproj.AssemblyReference.cache
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\obj\Debug\MyAppDB.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\obj\Debug\MyAppDB.csproj.Up2Date
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\obj\Debug\MyAppDB.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppDB\obj\Debug\MyAppDB.pdb

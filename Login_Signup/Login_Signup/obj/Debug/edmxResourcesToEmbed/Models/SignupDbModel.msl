@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SignupDbModelStoreContainer" CdmEntityContainer="BankDBEntities2">
+    <EntitySetMapping Name="allUsers">
+      <EntityTypeMapping TypeName="SignupDbModel.allUser">
+        <MappingFragment StoreEntitySet="allUsers">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="pincode" ColumnName="pincode" />
+          <ScalarProperty Name="accountnumber" ColumnName="accountnumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

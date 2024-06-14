@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EmployeeDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="empTable01">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="fname" Type="varchar" MaxLength="20" />
+          <Property Name="lname" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="email" Type="varchar" MaxLength="50" />
+          <Property Name="addressid" Type="int" />
+          <Property Name="empid" Type="int" />
+        </EntityType>
+        <EntityType Name="empTable02">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="city" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="state" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="country" Type="varchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_empTable01_empTable02">
+          <End Role="empTable02" Type="Self.empTable02" Multiplicity="0..1" />
+          <End Role="empTable01" Type="Self.empTable01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="empTable02">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="empTable01">
+              <PropertyRef Name="addressid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EmployeeDBModelStoreContainer">
+          <EntitySet Name="empTable01" EntityType="Self.empTable01" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="empTable02" EntityType="Self.empTable02" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_empTable01_empTable02" Association="Self.FK_empTable01_empTable02">
+            <End Role="empTable02" EntitySet="empTable02" />
+            <End Role="empTable01" EntitySet="empTable01" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EmployeeDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="empTable01">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="fname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="lname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="addressid" Type="Int32" />
+          <Property Name="empid" Type="Int32" />
+          <NavigationProperty Name="empTable02" Relationship="Self.FK_empTable01_empTable02" FromRole="empTable01" ToRole="empTable02" />
+        </EntityType>
+        <EntityType Name="empTable02">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="city" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="state" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="country" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="empTable01" Relationship="Self.FK_empTable01_empTable02" FromRole="empTable02" ToRole="empTable01" />
+        </EntityType>
+        <Association Name="FK_empTable01_empTable02">
+          <End Role="empTable02" Type="Self.empTable02" Multiplicity="0..1" />
+          <End Role="empTable01" Type="Self.empTable01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="empTable02">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="empTable01">
+              <PropertyRef Name="addressid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EmployeeDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="empTable01" EntityType="Self.empTable01" />
+          <EntitySet Name="empTable02" EntityType="Self.empTable02" />
+          <AssociationSet Name="FK_empTable01_empTable02" Association="Self.FK_empTable01_empTable02">
+            <End Role="empTable02" EntitySet="empTable02" />
+            <End Role="empTable01" EntitySet="empTable01" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EmployeeDBModelStoreContainer" CdmEntityContainer="EmployeeDBEntities">
+          <EntitySetMapping Name="empTable01">
+            <EntityTypeMapping TypeName="EmployeeDBModel.empTable01">
+              <MappingFragment StoreEntitySet="empTable01">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="fname" ColumnName="fname" />
+                <ScalarProperty Name="lname" ColumnName="lname" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="addressid" ColumnName="addressid" />
+                <ScalarProperty Name="empid" ColumnName="empid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="empTable02">
+            <EntityTypeMapping TypeName="EmployeeDBModel.empTable02">
+              <MappingFragment StoreEntitySet="empTable02">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="city" ColumnName="city" />
+                <ScalarProperty Name="state" ColumnName="state" />
+                <ScalarProperty Name="country" ColumnName="country" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

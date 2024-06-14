@@ -1,0 +1,16 @@
+﻿
+@* This view is created for Home View ie. Home/Index *@
+
+@Model Login_Signup/Data/LoginContext 
+
+@{
+    
+}
+
+<h2>Index</h2>
+
+
+<h3>Welcome, @Session["username"].ToString()</h3>
+
+@Html.ActionLink("LOGOUT", "Logout", "Login")
+

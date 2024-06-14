@@ -1,0 +1,6 @@
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\bin\Debug\MyAppModels.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\bin\Debug\MyAppModels.pdb
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\obj\Debug\MyAppModels.csproj.AssemblyReference.cache
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\obj\Debug\MyAppModels.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\obj\Debug\MyAppModels.dll
+C:\Users\kanaka\source\repos\ASP.NET MVC\CRUD_task_mvc\MyAppModels\obj\Debug\MyAppModels.pdb

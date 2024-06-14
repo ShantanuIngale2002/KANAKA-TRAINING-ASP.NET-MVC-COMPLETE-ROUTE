@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EmployeeDBModelStoreContainer" CdmEntityContainer="EmployeeDBEntities">
+    <EntitySetMapping Name="empTable01">
+      <EntityTypeMapping TypeName="EmployeeDBModel.empTable01">
+        <MappingFragment StoreEntitySet="empTable01">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fname" ColumnName="fname" />
+          <ScalarProperty Name="lname" ColumnName="lname" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="addressid" ColumnName="addressid" />
+          <ScalarProperty Name="empid" ColumnName="empid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="empTable02">
+      <EntityTypeMapping TypeName="EmployeeDBModel.empTable02">
+        <MappingFragment StoreEntitySet="empTable02">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="country" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

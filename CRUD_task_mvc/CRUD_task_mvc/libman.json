@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap@5.3.3",
+      "destination": "Content/bootstrap/"
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "jquery@3.7.1",
+  "destination": "Content/jquery/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "modernizr@2.8.3",
+  "destination": "Content/modernizr/"
+}
+]
+}

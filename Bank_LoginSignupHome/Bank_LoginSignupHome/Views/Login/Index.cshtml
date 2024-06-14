@@ -1,0 +1,63 @@
+﻿@model Bank_LoginSignupHome.Models.LoginModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@{ 
+    @Html.Raw(ViewBag.Login)
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Login</h5>
+                        <hr />
+
+                        <div class="form-group row">
+                            <label for="Email" class="col-md-4 col-form-label text-md-right">Email</label>
+                            <div class="col-md-8">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group row my-4">
+                            <label for="Password" class="col-md-4 col-form-label text-md-right">Password</label>
+                            <div class="col-md-8">
+                                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-md-8 offset-md-4">
+                                @Html.ActionLink("Not yet Registered ?","Index","Signup")
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-md-8 offset-md-4">
+                                <input type="submit" value="LOGIN" class="btn btn-info text-white fw-bold" />
+                                <a href="/Login/Reset" class="btn btn-danger mx-1">RESET</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}
+
+
+
+

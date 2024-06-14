@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\content\\jquery\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\content\\jquery\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\crud_task_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A996638-A099-4520-B835-839052459576}|CRUD_task_mvc\\CRUD_task_mvc.csproj|solutionrelative:crud_task_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CDED41-AE68-4EE3-809D-4A3600255727}|MyAppDB\\MyAppDB.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\myappdb\\dboperations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CDED41-AE68-4EE3-809D-4A3600255727}|MyAppDB\\MyAppDB.csproj|solutionrelative:myappdb\\dboperations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781D9CEB-1EC0-43EF-BBFE-3635BB193E68}|MyAppModels\\MyAppModels.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\myappmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781D9CEB-1EC0-43EF-BBFE-3635BB193E68}|MyAppModels\\MyAppModels.csproj|solutionrelative:myappmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781D9CEB-1EC0-43EF-BBFE-3635BB193E68}|MyAppModels\\MyAppModels.csproj|c:\\users\\kanaka\\source\\repos\\asp.net mvc\\crud_task_mvc\\myappmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781D9CEB-1EC0-43EF-BBFE-3635BB193E68}|MyAppModels\\MyAppModels.csproj|solutionrelative:myappmodels\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Content\\jquery\\jquery.min.js",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\Content\\jquery\\jquery.min.js",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Content\\jquery\\jquery.min.js",
+              "RelativeToolTip": "CRUD_task_mvc\\Content\\jquery\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T05:43:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\libman.json",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\libman.json",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\libman.json",
+              "RelativeToolTip": "CRUD_task_mvc\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T05:27:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUD_task_mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:11:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD_task_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:10:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppModels\\AddressModel.cs",
+              "RelativeDocumentMoniker": "MyAppModels\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppModels\\AddressModel.cs",
+              "RelativeToolTip": "MyAppModels\\AddressModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:02:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "MyAppModels\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppModels\\EmployeeModel.cs",
+              "RelativeToolTip": "MyAppModels\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:01:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppDB\\DBoperations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MyAppDB\\DBoperations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\MyAppDB\\DBoperations\\EmployeeRepository.cs",
+              "RelativeToolTip": "MyAppDB\\DBoperations\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:50:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD_task_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:44:21.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_task_mvc\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\ASP.NET MVC\\CRUD_task_mvc\\CRUD_task_mvc\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUD_task_mvc\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:47:56.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
